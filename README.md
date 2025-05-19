@@ -1,25 +1,28 @@
-# 🌸 Iris Dataset Analysis
+# 🌸 Covid 19 Analysis
 
-This project involves analyzing the classic Iris flower dataset using Python. The goal is to explore, summarize, and visualize the dataset using `pandas`, `matplotlib`, and `seaborn`.
+This project involves analyzing the Covid 19 dataset using Python. The goal is to explore, summarize, and visualize the dataset using `pandas`, `matplotlib`
 
 ---
 
 ## 🎯 Objectives
 
-- Load and clean the Iris dataset
+- Loads, cleans, analyzes, and visualizes COVID-19 data
 - Perform basic descriptive statistics
-- Visualize relationships using different chart types
+- Communicates insights with a clear narrative and visuals
 - Derive meaningful insights from the dataset
+oads, cleans, analyzes, and visualizes COVID-19 data.
+- It is easy to read, well-commented, and reproducible
+
+
 
 ---
 
 ## 🛠 Tools & Libraries Used
 
 - Python 3.x
-- pandas
-- seaborn
+- Juypter
 - matplotlib
-- scikit-learn
+
 
 ---
 
@@ -27,5 +30,5 @@ This project involves analyzing the classic Iris flower dataset using Python. Th
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Wizard-hash2/PLP-week8/blob/main/Data.py
-   cd data
+   git clone https://github.com/Wizard-hash2/PLP-week8.git
+   cd Notebook.ipynb
